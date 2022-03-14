@@ -1,0 +1,5 @@
+package com.greatlearning.departments;
+
+public class AdminDepartment {
+
+}
